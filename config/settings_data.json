@@ -138,15 +138,22 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Company Info",
+              "menu": "company-info"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "heading": "Customer Care",
+              "menu": "customer-care"
+            }
+          },
+          "ddec4b96-e7d3-4f29-97a9-8b8eea2c2ade": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Help & Support",
+              "menu": "help-support"
             }
           },
           "footer-2": {
@@ -160,10 +167,11 @@
         "block_order": [
           "footer-0",
           "footer-1",
+          "ddec4b96-e7d3-4f29-97a9-8b8eea2c2ade",
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "background-2",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
